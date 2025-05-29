@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid #1f7a8c;
   border-radius: 50% !important;
 }
 
@@ -116,7 +116,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #22577a;
   background-color: white;
 }
 /* main body */
@@ -221,6 +221,7 @@ dt {
 
 ul.side-nav {
   width: 190px;
+  background-color: #D9D9D9;
 }
 
 ul.side-nav li {
@@ -257,7 +258,7 @@ ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
 } */
 
 ul.side-nav.fixed li.logo {
-  background-color: #fafafa;
+  background-color: #D9D9D9;
   border-bottom: 1px solid #ddd;
   box-sizing: content-box;
   min-height: 90px;
@@ -306,6 +307,7 @@ h3 {
   padding-bottom: 30px;
   padding-top: 0;
   position: relative;
+  background-color: #D9D9D9;
 }
 
 .full-height {
@@ -356,8 +358,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
-  /*background-color: rgba(30, 120, 113, 1);*/
+  background-color: rgba(34, 87, 122, 1);
   height: 100%;
   left: 0;
   position: absolute;
@@ -550,7 +551,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #22577a !important;
 }
 
 /* .teal-text {
@@ -560,7 +561,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #22577a !important;
 }
 
 /* .teal {
@@ -603,7 +604,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #22577a;
     height: 56px;
     line-height: 56px;
   }
